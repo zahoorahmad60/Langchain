@@ -1,0 +1,5 @@
+Structured Output:
+REAL WORLD APPLICATIONS:
+1) Data Extraction  
+2) Api Building
+3) AI Agents(Building)
